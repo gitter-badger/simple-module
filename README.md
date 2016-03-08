@@ -1,6 +1,8 @@
 Simple Module
 =========
 
+[![Join the chat at https://gitter.im/mycolorway/simple-module](https://badges.gitter.im/mycolorway/simple-module.svg)](https://gitter.im/mycolorway/simple-module?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Simple Module是一个CoffeeScript抽象类，彩程的前端UI库都基于这个抽象类来构建。
 
 依赖jQuery 2.0+，支持：IE10+、Firefox、Chrome、Safari。
